@@ -1,0 +1,16 @@
+{
+  "username_null" : "שם המשתמש לא יכול להיות ריק",
+  "username_size" : "חייב להיות בגודל של 4 תווים לפחות ו32 תווים לכל היותר",
+  "email_null" : "מייל לא יכול להיות ריק",
+  "email_invalid" : "מייל לא חוקי",
+  "password_null" : "סיסמה לא יכולה להיות ריקה",
+  "password_size" : "הסיסמה חייבת להיות באורך 6 תווים לפחות",
+  "password_pattern" : "הסיסמה חייבת להכיל אות קטנה, אות גדולה, ומספר אחד לפחות",
+  "email_inuse" : "המייל כבר נמצא בשימוש",
+  "user_create_success" : "המשתמש נוצר בהצלחה",
+  "email_failure" : "שליחת המייל נכשלה",
+  "account_activation_failure" : "החשבון הזה פעיל או שהטוקן אינו תקין",
+  "account_activation_success" : "החשבון הופעל בהצלחה",
+  "validation_failure" : "ולידציה נכשלה",
+  "user_not_found" : "המשתמש לא נמצא"
+}

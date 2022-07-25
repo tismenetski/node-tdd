@@ -1,0 +1,19 @@
+{
+  "database" : {
+    "database" : "hoaxify",
+    "username" : "my-db-user",
+    "password" : "db-p4ss",
+    "dialect" : "sqlite",
+    "storage" : "./database.sqlite",
+    "logging"  : false
+  },
+  "mail" : {
+    "host": "smtp.ethereal.email",
+    "port": 587,
+    "auth": {
+      "user": "theresia.beier63@ethereal.email",
+      "pass": "We8BJgnMGeTFC7xUkh"
+    }
+  }
+}
+
